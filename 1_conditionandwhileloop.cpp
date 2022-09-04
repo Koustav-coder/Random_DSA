@@ -1,4 +1,4 @@
-// DSA pracs-1::conditionsandloops
+// DSA pracs-1::conditionsandwhileloop
 #include<iostream>
 using namespace std;
 
